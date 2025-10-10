@@ -1,7 +1,8 @@
 ### Hi, everybody 👋
 
-🖥 I graduated from Helsinki Business College with a degree in Full Stack Development and also completed a front-end development course at RS School.
-Now I am studying Software Engineering at Metropolia University of Applied Sciences.
+🖥 I graduated from Helsinki Business College with a degree in Full Stack Development and also completed a Frontend Development course at RS School.
+
+🔭 Now I am studying Software Engineering at Metropolia University of Applied Sciences.
 
 👩‍🎓 I’m familiar with Python, Javascript, React, Node.js, AWS, Unit Testing and Typescript
 
