@@ -1,9 +1,9 @@
 ### Hi, everybody 👋
 
-🖥 I studied software development at the Business College Helsinki.
-Now I am studying Frontend Development at RS School.
+🖥 I graduated from Helsinki Business College with a degree in Full Stack Development and also completed a front-end development course at RS School.
+Now I am studying Software Engineering at Metropolia University of Applied Sciences.
 
-👩‍🎓 I’m currently learning Javascript, React, Node.js, AWS, Unit Testing and Typescript
+👩‍🎓 I’m familiar with Python, Javascript, React, Node.js, AWS, Unit Testing and Typescript
 
 💚 Share your thoughts about my code
 
@@ -15,6 +15,7 @@ Programming Languages and skills:
 
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![image](https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=green)
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![image](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
