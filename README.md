@@ -2,8 +2,9 @@
 
 🔭 Currently studying Software Engineering at Metropolia University of Applied Sciences.  
 🖥 I graduated from Helsinki Business College with a degree in Full Stack Development and completed a Frontend Development course at RS School.  
-🚀 I build real things — deployed apps, real data, real users.  
-💚 Open to collaboration and feedback on my code.  
+🚀 I enjoy creating things that actually work and learning everything necessary to achieve that goal.
+🤝 Open to collaboration and new job opportunities.
+
 ❓ Connect on LinkedIn: [LinkedIn](https://www.linkedin.com/in/maria-k-88543a11a/)
 
 ---
@@ -19,3 +20,7 @@
 
 **Tools & Deployment**  
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+![Top Languages](https://github-readme-stats-makuza.vercel.app/api/top-langs/?username=makuzaza&layout=compact&langs_count=12)
