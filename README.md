@@ -5,7 +5,7 @@
 🚀 I enjoy creating things that actually work and learning everything necessary to achieve that goal.
 🤝 Open to collaboration and new job opportunities.
 
-❓ Connect on LinkedIn: [LinkedIn](https://www.linkedin.com/in/maria-k-88543a11a/)
+❓ Connect on LinkedIn: [LinkedIn](https://www.linkedin.com/in/maria-kuznetcova/)
 
 ---
 
