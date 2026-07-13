@@ -23,4 +23,4 @@
 
 ---
 
-![Top Languages](https://github-readme-stats-makuza.vercel.app/api/top-langs/?username=makuzaza&layout=compact&langs_count=12)
+![Top Languages](https://github-readme-stats-makuza.vercel.app/api/top-langs/?username=makuzaza&layout=compact&langs_count=12&cache_seconds=0)
