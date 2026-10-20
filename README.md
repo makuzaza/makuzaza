@@ -16,15 +16,16 @@
 ### ✈️ [CO₂ Flight Challenge Game](https://github.com/makuzaza/Fly_game) · [Live demo](https://lentopeli.netlify.app/)
 <img src="https://github.com/makuzaza/Fly_game/raw/my/front_end/assets/screen.png" width="420" alt="CO₂ Flight Challenge preview">
 
-Educational web game: identify countries from hints, choose airports and build the most CO₂-efficient flight route within a budget. Features an interactive airport map, route optimization, a leaderboard and weather API integration.
+Educational web game about the climate impact of air travel: identify countries from hints, choose airports and build the most CO₂-efficient flight route within an emissions budget. The game makes sustainable choices part of the gameplay, since unnecessary backtracking and extra layovers cost CO₂. Features an interactive airport map, route optimization, a leaderboard and weather API integration.
 
 **Stack:** Python (Flask) · REST API · JavaScript · MariaDB / SQL · Leaflet + OpenStreetMap · Netlify
 
 ### 🏎️ [Electric Racing Simulator](https://github.com/makuzaza/JavaProj)
 <img src="https://github.com/makuzaza/JavaProj/raw/final/assets/simulator_ev.png" width="420" alt="Electric Racing Simulator preview">
-Discrete-event simulation of a motorsport race with electric and gasoline vehicles. Includes physics-based engine models, tire wear, random failures, five pit-stop service stations with dynamic routing, and a configurable JavaFX UI. Every simulation run is saved to MariaDB.
 
-**Stack:** Java 21 · JavaFX · MariaDB · Maven · MVC · DAO pattern
+Discrete-event simulation of a motorsport race with electric and gasoline vehicles. Many vehicles run at the same time as independent entities: each one generates its own events (laps, energy use, failures, pit stops) and queues at service stations on its own, all driven by a shared event list and simulation clock. Includes physics-based engine models, tire wear, nine malfunction types, five service stations with dynamic routing, and a configurable JavaFX UI. Every simulation run is saved to MariaDB.
+
+**Stack:** Java 21 · JavaFX · MariaDB · Maven · JUnit 5 · MVC · DAO pattern
 
 ### 🎭 [The Puppeteer](https://github.com/makuzaza/deepfake-hunters-project)
 <img src="https://github.com/makuzaza/deepfake-hunters-project/raw/main/Puppeteer/Assets/Art/docs/puppeteer.jpg" width="420" alt="The Puppeteer preview">
