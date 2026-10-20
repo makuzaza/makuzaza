@@ -1,11 +1,11 @@
 ### Hi, I'm Maria 👋
 
-💻 Full Stack Developer working with **React, TypeScript, Node.js, Java and Python**  
-🎓 Studying Software Engineering at **Metropolia University of Applied Sciences**
-🛠 Vocational Qualification in Information and Communications Technology (Business College Helsinki) and Frontend program at RS School  
-💼 Worked as a Full Stack Developer at i4ware Software and as a Coding Expert for Outlier  
-📈 10+ years of marketing experience before IT, so I build with real users and business goals in mind  
-🤝 Open to collaboration and software development opportunities
+💻 Full Stack Developer working with **React, TypeScript, Node.js, Java and Python**<br>
+🎓 Studying Software Engineering at **Metropolia University of Applied Sciences**<br>
+🛠 Vocational Qualification in Information and Communications Technology (Business College Helsinki) and Frontend program at RS School<br>
+💼 Worked as a Full Stack Developer at i4ware Software and as a Coding Expert for Outlier<br>
+📈 10+ years of marketing experience before IT, so I build with real users and business goals in mind<br>
+🤝 Open to collaboration and software development opportunities in Finland
 
 📫 Connect on [LinkedIn](https://www.linkedin.com/in/maria-kuznetcova/) · 🌐 [Portfolio](https://maria-kuznetcova.netlify.app/)
 
@@ -21,6 +21,7 @@ Educational web game: identify countries from hints, choose airports and build t
 **Stack:** Python (Flask) · REST API · JavaScript · MariaDB / SQL · Leaflet + OpenStreetMap · Netlify
 
 ### 🏎️ [Electric Racing Simulator](https://github.com/makuzaza/JavaProj)
+<img src="https://github.com/makuzaza/JavaProj/raw/final/assets/simulator_ev.png" width="420" alt="Electric Racing Simulator preview">
 Discrete-event simulation of a motorsport race with electric and gasoline vehicles. Includes physics-based engine models, tire wear, random failures, five pit-stop service stations with dynamic routing, and a configurable JavaFX UI. Every simulation run is saved to MariaDB.
 
 **Stack:** Java 21 · JavaFX · MariaDB · Maven · MVC · DAO pattern
