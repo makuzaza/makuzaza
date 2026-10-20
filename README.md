@@ -32,6 +32,7 @@ Discrete-event simulation of a motorsport race with electric and gasoline vehicl
 
 **My role:** Gameplay Programming  
 **Stack:** Unity 6 · C# · URP · ScriptableObject-driven data model · New Input System
+
 ---
 
 ## 🧰 Tech Stack
